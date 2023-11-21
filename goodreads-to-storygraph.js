@@ -6,7 +6,7 @@
 // @author       ar3h1d
 // @match        https://www.goodreads.com/book/*
 // @grant        none
-// @icon         https://raw.githubusercontent.com/ar3h1d/Goodreads-to-StoryGraph/Letterboxd_30nama_Link.png
+// @icon         https://raw.githubusercontent.com/ar3h1d/Goodreads-to-StoryGraph/icon.png
 // @license      GPL3
 // ==/UserScript==
 

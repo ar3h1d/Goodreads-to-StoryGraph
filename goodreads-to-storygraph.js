@@ -1,10 +1,12 @@
 // ==UserScript==
-// @name         Goodreads StoryGraph Link
+// @name         Goodreads to StoryGraph
+// @namespace    https://github.com/ar3h1d/Goodreads-to-StoryGraph
 // @version      0.1
-// @description  Goodreads StoryGraph Link
+// @description  User script to add a link from every book page on Goodreads to StoryGraph
 // @author       ar3h1d
 // @match        https://www.goodreads.com/book/*
 // @grant        none
+// @icon         https://raw.githubusercontent.com/ar3h1d/Goodreads-to-StoryGraph/Letterboxd_30nama_Link.png
 // @license      GPL3
 // ==/UserScript==
 
